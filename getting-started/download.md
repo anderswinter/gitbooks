@@ -32,6 +32,7 @@ Also check the [Quick Start](../guides/vr-quick-start-guide.md) and other [print
 | Language | Platform | Version | Link                                                                                                             |
 | -------- | -------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
 | English  | Windows  |  1.3    | [Download](https://vitasim.sharepoint.com/:u:/s/Develop/EZlfuf0AjTdOkS15Q4oEZl0By4_ieLjd2lGN3SAwsYChRw?e=eg6Ayl) |
+| Multi    | Windows  | 1.8.0   | [Download](https://vitasim.sharepoint.com/:u:/s/Develop/ETaQYhC9jxxLhfl_IiBQJvgB5g3OY-sz0qU0GMS7Vf6arg?e=J8DsdI) |
 
 ### Desktop X-ray Simulator
 
